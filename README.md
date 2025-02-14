@@ -29,7 +29,13 @@ The parameters to be set before run the algorithm are in the _./ADS/parameters.j
 
 ## TUS (Time Usage Survey) Istat tables
 
-
+- _./TUS_Istat/TUS_PLACE_COD_EN.csv_
+- _./TUS_Istat/HETUS_ACTIVITY_COD_EN.csv_
+- _./TUS_Istat/GP2HETUS_MAP.csv_
+- _./TUS_Istat/GP2TUS_PLACE_MAP.csv_
+- _./TUS_Istat/OSM2TUS_PLACE_MAP.csv_
+-_./TUS_Istat/Activity_Places_TUS_count2.csv_
+-_./TUS_Istat/data_by_tslot/Activity_Places_TUS_TIME_SLOT.csv_
 
 ## Testing the algorithm
 
