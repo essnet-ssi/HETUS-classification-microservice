@@ -22,9 +22,10 @@ The parameters to be set before run the algorithm are in the ADS/parameters.json
 - gpsSampleSize (e.g. 100)
 - RadiusThresholdPoiStop": 50,
 - RadiusGPSThreshold": 20,
-- predMethod, "direct" | "prob"
-- DURATION_MODE,  "lognorm" | "norm" | "uniform"
-- TIMESLOT": "False"|"True
+- predMethod ("direct" | "prob"), method used to predict activity: 'prob' if probabilistic, based on tables of activities, places, user, duration; 'direct' if it is not 
+             based on tables
+- DURATION_MODE  ("lognorm" | "norm" | "uniform"), actitivity duration distribution
+- TIMESLOT" ("False"|"True), True if the time slot is considered in the activity prediction, False otherwise
 
 ## Testing the algorithm
 
