@@ -20,8 +20,8 @@ The parameters to be set before run the algorithm are in the ADS/parameters.json
 - ActivityDurationMin (e.g. 300 seconds), the minimum duration for an activity
 - UserSpeedMax (e.g. 1.96), tha maximum speed of a user while walking
 - gpsSampleSize (e.g. 100)
-- RadiusThresholdPoiStop": 50,
-- RadiusGPSThreshold": 20,
+- RadiusThresholdPoiStop (e.g. 50)
+- RadiusGPSThreshold (e.g. 20)
 - predMethod ("direct" | "prob"), method used to predict activity: 'prob' if probabilistic, based on tables of activities, places, user, duration; 'direct' if it is not 
              based on tables
 - DURATION_MODE  ("lognorm" | "norm" | "uniform"), actitivity duration distribution
