@@ -17,9 +17,9 @@ The parameters to be set before run the algorithm are in the ADS/parameters.json
 - mapService: the map service to be used, may be "GP" | "OSM", i.e. GooglePlaces or OpenStreetMap
 - radiusAccMax (e.g. 12000)
 - poiSearchRadius (e.g. 50)
-- ActivityDurationMin (e.g. 300 seconds), the minimum duration for an activity
-- UserSpeedMax (e.g. 1.96), tha maximum speed of a user while walking
-- gpsSampleSize (e.g. 100)
+- ActivityDurationMin (e.g. 300 seconds), minimum duration for an activity
+- UserSpeedMax (e.g. 1.96), maximum speed of a user while walking
+- gpsSampleSize (e.g. 100), number of gps points used to calcualte the median distance from the poi
 - RadiusThresholdPoiStop (e.g. 50)
 - RadiusGPSThreshold (e.g. 20)
 - predMethod ("direct" | "prob"), method used to predict activity: 'prob' if probabilistic, based on tables of activities, places, user, duration; 'direct' if it is not 
