@@ -12,7 +12,7 @@ The input data used for the activity prediction algorithm are:
 
 # Configuration parameters
 
-The parameters to be set before run the algorithm are in the ADS/parameters.json file:
+The parameters to be set before run the algorithm are in the _./ADS/parameters.json_ file:
 
 - mapService: the map service to be used, may be "GP" | "OSM", i.e. GooglePlaces or OpenStreetMap
 - radiusAccMax (e.g. 12000)
@@ -27,8 +27,12 @@ The parameters to be set before run the algorithm are in the ADS/parameters.json
 - DURATION_MODE  ("lognorm" | "norm" | "uniform"), actitivity duration distribution
 - TIMESLOT" ("False"|"True), True if the time slot is considered in the activity prediction, False otherwise
 
+## TUS (Time Usage Survey) Istat tables
+
+
+
 ## Testing the algorithm
 
-Edit or confirm configuration parameters in the ADS/parameters.json file.
+Edit or confirm configuration parameters in the _./ADS/parameters.json_ file.
 
-Run the Test_ADS.ipynb notebook.
+Run the _./ADS/Test_ADS.ipynb_ notebook.
