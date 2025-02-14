@@ -1,0 +1,26 @@
+TUS_PLACE;TUS_PLACE_DESCR;TUS_PLACE_DESCR_EN;HETUS_PLACE
+01;Casa propria-EU12;Own home;EU12
+02;Casa propria-EU12;Own home;EU12
+03;Casa di altre persone;Other people's home;EU14
+04;Albergo e simili;Hotel and similar;EU17
+05;Luogo di lavoro;Workplace;EU13
+06;Scuola, universita;School, university;EU13
+07;Biblioteca;Library;EU19
+08;Centro studi;Study center;EU19
+09;Ristorante, pizzeria, Birreria,Bar gelateria;Restaurant, pizzeria, brewery, ice cream bar;EU15
+10;Centro commerciale;Shopping center;EU16
+11;Mercato;Market;EU16
+12;Negozi;Shops;EU16
+13;Uffici pubblici;Public offices;EU19
+14;Ospedale, ambulatorio;Hospital, clinic;EU19
+15;Luoghi per lo sport;Sports venues;EU19
+16;Luoghi per lo spettacolo;Entertainment venues;--
+17;Discoteca;Discotheque;EU19
+18;Museo, mostre;Museum, exhibitions;EU19
+19;Parco a tema, Sala giochi;Theme park, game room;EU19
+20;Luoghi di culto, oratorio;Places of worship, oratory;EU19
+21;Verde pubblico attrezzato (parco, giardino, villa);Equipped public green spaces (park, garden, villa);EU19
+22;Zona verde (campagna, montagna, prato, bosco);Green area (countryside, mountain, meadow, forest);EU19
+23;Mare, spiaggia;Sea, beach;EU19
+24;Fiume, lago;River, lake;EU19
+25;Strada, altro luogo;Road, other places;EU19

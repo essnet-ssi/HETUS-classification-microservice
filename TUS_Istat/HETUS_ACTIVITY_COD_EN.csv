@@ -1,0 +1,1001 @@
+code;descr;other
+0;PERSONAL CARE;
+0.1;SLEEP ING;
+0.1.1;Sleep ing;" Definition : Sleep at night or daytime. Time in bed before and after sleep, when no other 
+activity is sp ecified. Unspecified sleep.  
+ Note : Resting is included in code "" 531 Resting — Time out "". 
+ Examples : Fell asleep on the couch / Parent woke me up, still in bed / Nap / Waiting to  
+fall asleep / Changed bed during night (from one bed to another bed) / Waiting to get out 
+of bed after waking up / Waking up, and still in bed.  "
+0.1.2;Sick in bed;" Definition : Incapacitated in bed. For sick, elderly or disabled in bed, when no other 
+activi ty is specified. When eating, talking to others, listening to the radio, etc. , these 
+activities are to be coded as the main activity and ""Sick in bed"" as the secondary activit y. 
+ Examples : Lying in bed because of sickness, old age / Being occasionally in a  hospital  
+bed on the diary day.  "
+0.2;EATING;
+0.2.1;Eating;" Definition : Eating meals regardless of place; distinctions can be made by using a 
+""location"" code. Eating snacks, ice cream, sweets, etc. Drinking coffee, tea, juice, beer, 
+wine, spirits, etc.  
+ Note : Setting the table is included in 311 Food preparation  and baking.  
+ Examples : Eating dessert / Eating dinner / Eating lunch at home, at work, in restaurant, 
+during a visit, etc. / Eating supper / Got drunk / Had a beer / Had a pizza / Had a 
+sandwich / Had  food / Nibbling other food / Using narcotics.  "
+0.3;OTHER PERSONAL CARE;
+0.3.1;Washing and dressing;" Definition : Activities the respondent does for her/ himself. Toilet (WC) activities. Also 
+activities (cutting hair, manicure, etc.) done free of charge for the respondent by a 
+member of the family, a relative, a friend, etc. Getting out of bed and going to bed are 
+included here.  
+ Note : Time in bed before and after sleep when no other activity is specified is included in 
+code "" 011 Sleep ing"". 
+ Examples : Brushin g teeth / Changing clothes / Evening, morning chores / Make -up / 
+Manicure, pedicure / Personal hygiene / Sauna / Shaving / Skin care / Taking a bath / 
+Taking a shower / Washed face, hands and feet / Washing, drying and doing hair.  "
+0.3.2;Personal care servi ces;" Definition : Individual services that do not belong to household production according to 
+the third -party criterion, i.e. tasks that cannot be delegated to anybody else. Visiting a 
+doctor, a dentist, a physiotherapist/ another medical specialist, etc. for own medical care/ 
+for a medical consultation.  Visit to a saloon, beauty parlour, barber's, for own personal 
+services such as haircut or hair styling, solarium, manicure, pedicure, etc. (as paid 
+ 
+ 
+ 
+ 
+  
+service). Also includes waiting.  
+ Examples : Went to doctor  for check -up / Doctor visited me at home / Waiting in the 
+doctor’s waiting -room / Was at the hospital (as a patient).  Facial care / Having one’s 
+navel pierced / Visited the maternity ward / Was at the hairdresser.  "
+0.3.9;Other or unspecified personal care;" Definition : Personal care for own health. Receiving health care from a household  
+member or friend. Sexual activities. ""Private activities"" as suggested in the diary 
+instructions. Unspecified personal care.  
+ Note : Paid services for personal care (e.g. visits to a doctor) are included in code "" 032 
+Personal care services "". 
+ Note : Services given to somebody else, e.g. cutting hair or medical care, are included in 
+code "" 381 Childcare: Physical care and supervision "" and code "" 39 HELP TO AN ADULT 
+HOUSEHOLD MEMBER "". 
+ Examples : Aerosol for asthma / Couple relation / Insulin injection / Intimacy / Monitoring 
+blood pressure, sugar level, home diagnostic tests / Personal medical care at home / 
+Preparing and taking medicines /  Feet massage (done by her/himself) / Put weekly 
+consumption of medicine/ pills in a medicine cassette / Solarium session (at home) / 
+Wound treatment . 
+ "
+1;EMPLOYMENT;" Note : According to ILO actual hours worked should include44: 
+ 1. Productive time (hours actually worked during normal periods of work and time 
+worked in addition to hours worked during normal periods of work, and generally paid at 
+higher rates than normal rates (overtime);  
+ 2. Time spent on ancillary activities (time spent at the place of work on work such as the 
+preparation of the workplace, repairs and maintenance, preparation and cleaning of tools 
+and the preparation of rec eipts, time sheets and reports);  
+ 3. Unproductive time spent in the course of the production process (time spent at the 
+place of work waiting or standing -by for such reasons as lack of supply of work, 
+breakdown of machinery or accidents, or time spent at the place of work during which no 
+work is done but for which payment is made under a g uaranteed employment contract);  
+ 4. Resting time (time corresponding to short rest periods at the workplace, including tea 
+and coffee breaks).  
+ Note : The definition explicitly excludes time not worked, even if paid, such as paid 
+annual leave, paid public holidays, paid sick leave, meal breaks and time spent on travel 
+from home to work and vice versa.  
+ Note : Working time applies to work done in paid jobs and in a family business or 
+property, also as ""unpaid family member"". It also applies to work done by people who do 
+not regard themselve s as employed, e.g. children and elderly people . "
+1.1;MAIN JOB AND SECOND JOB;
+1.1.1;Working time in main and second job (including short breaks and travel at;"work)  
+ Definition : Time spent on main and second job, including: working overtime, work 
+brought ho me, paid practical training, training during work and travelling due to work, 
+during or outside working hours. Short breaks during working hours due to personal 
+reasons, e.g. need for rest, smoking, personal phone call, using Internet for personal 
+reasons.  Travel due to work in main job, during or outside regular working hours. Work 
+                                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+trips to seminars etc. Driver’s (taxi, pizza delivery, etc.) job while moving. Unspecified 
+main and second job is also included in this category.   
+ Note : Trips to/ from work are included in code "" 910 Travel to/ from work "". 
+ Note : Unpaid practical training in connection with studies and school -based part of an 
+apprenticeship is included in  code "" 213 Internship "". The latter is typically offered to 
+students and graduates looking to gain relevant skills and experience in a particular field. 
+These kinds of trainings or education should be coded under category 2013.  
+ Note : Voluntary w ork for an organisation is included in code "" 4 VOLUNTARY WORK 
+AND MEETINGS "" / ""411 Organisational work (for or through an organisation) "". It 
+includes working as a volunteer free of charge or for a minor fee . 
+ Note : If a computer, smart device, internet, online tool, etc. for doing the main or second 
+job is used  should be indicated via the ICT use column in the diary.  
+ Examples : Working as bus driver / Selling at a flea -market stall / Corrected written tests 
+(teacher) / Preparations for work / Planning tomorrow’s lessons (teacher) / Business 
+meeting during lunch break / Meeting with a business partner after working hours / 
+Taking and giving back work material, tools, etc. / Inevitable break, e.g. because of 
+shortage of material, power -supply failure / Breaks in work because of prayer / Phone -
+call at home concernin g work / Student’s work or contractual work, when paid / Had a  
+rest and read newspapers at work / Phoned my child from the office / Used computer at 
+work to pay personal bills / Accident at work . "
+1.2;ACTIVITIES RELATED TO EMPLOYMENT;" Definition : Activitie s connected with own employment but not the actual work, which is 
+included in 11 Main and second job.  Also not included in code "" 12 ACTIVITIES 
+RELATED TO EMPLOYMENT "" is the travelling to and from work; this is cod e ""910 
+Travel to/ from work "". "
+1.2.1;Lunch break in main and second jobs;" Definition : Lunch break (at work), to be coded in the main activity column only if no other 
+activity (e.g. eating, shopping) is specified.  
+ Note : People can do different things during their lunch breaks. The respondent is ask ed 
+to report on her/ his activities during the lunch break (e.g. eating lunch, shopping, etc.). 
+Each such activity is given the appropriate code in the ""Main activity"" column, and we 
+use the contextual code ""121 Lunch break in main and second jobs"" in the ""Secondary 
+activity"" column to indicate that the activity was performed during the lunch break.  
+ Note : It is of interest to preserve information for easy calculation of the gross length of 
+the working day. As lunch breaks may be included in the gross worki ng day, the 
+calculation will be facilitated if they are marked as such.  
+ Note : If the diary does not specify what the respondent did during the lunch break, then 
+the code ""121 Lunch break in main and second jobs"" should be used in the main activity 
+column too. 
+ Example : In this example you can see how to use code 121.  
+   
+ "
+1.2.9;Other or unspecified activities related to employment;" Definition : Activities connected with own employment, except work itself. Activities not 
+paid for, e.g. time spent at the place of work before starting or after ending work. 
+Activities connected with job seeking, e.g. calling at or visiting a labour office or agency , 
+looking at online job searching sites, reading and replying  to job advertisements, going to 
+
+ 
+ 
+ 
+ 
+  
+see the new employer. Unspecified activities related to employment.  
+ Note : Work brought home is included in code "" 111 Working time  in main and second job 
+(includi ng short breaks and travel at work)"" . 
+ Note : Packing a bag at home for work next day or putting out clothes is included in code 
+""324 Arranging household goods and materials "". 
+ Note : Travelling to and from work is coded as ""910 Travel to/ from work "". 
+ Examples : Changed clothes before/ after work at the place of work / Reading job  
+announcements / Visiting a future workplace.  
+ "
+2;STUDY;
+2.1;SCHOOL OR UNIVERSITY;" Definition : Studies at primary, secondary and tertiary education institutions as part of the 
+formal education system, including general and vocational training.  "
+2.1.1;Classes and lectures;" Definition : Besides classes and lectures, includes laboratory work, retraining courses, 
+and short breaks at school/  university. Other unspecified activities related to school or 
+university  are to be coded as ""219 Other / unspecified  activities related to study"" . 
+Moreover, it includes remote/ distant education and online education which is within the 
+formal education, and it includes vocation training.  
+ Note : Does not include lunch breaks (see code 214) and longer free periods, which 
+should be coded according to actual activity.  
+ Examples : At school etc. with no activity mentioned / At the cinema, theatre with school 
+(during school hours) / Exams / School sports day / Appointment at school / Called my 
+teacher / Visited the studies supervisor . "
+2.1.2;Homework;" Definition : Homework, study in library , reading for exam.  
+ Note : Preparing for school, e.g. arranging the school bag, is included in code "" 324 
+Arranging household goods and materials "". 
+ Examples : Preparing for a test / Studying together with a fellow pupil / Reading for an 
+exam / Was tested on the homework / Gathering plants for school . "
+2.1.3;Internship;" Definition : An internship is a period of work experi ence offered by an organization for a 
+limited period of time. Once confined to medical graduates, the term is now used for a 
+wide range of placements within businesses, non -profit organizations and government 
+agencies. Internships  are typically undertaken by students and graduates looking to gain 
+relevant skills and experience in a particular field45. 
+ Examples : Paid internships  (in fields like medicine, architecture, science, engineering, 
+law, accounting and finance) ; work research  (student does research for a particular 
+company); unpaid internships (non -profit charities and think tanks offering unpaid or 
+volunteer positions ); partially -paid internships ( students paid in the form of a stipend).  "
+2.1.4;Breaks at school/ university;" Definition : Breaks are a period of time in which a group of people (here: pupils, students, 
+etc.) are temporarily dismissed from their duties (here: lessons). Breaks are a common 
+part of the school/ university day for children/ students around the world.  
+ Examples : break for a snack; lunch break; leaving school interior to go to adjacent 
+                                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+outdoor playground; visit the restroom; etc.  "
+2.1.5;Extra curricul ar classes;" Definition : Extracurricular  (also: extra academic) activities are those that fall outside the 
+realm of the normal curriculum of school or university education, performed by students. 
+Extracurricular activities exist for all students. Such activities are generally voluntary (as 
+opposed to mandatory), social, philanthropic, and often involve others of the same age. 
+Students and staff direct these activities under faculty sponsorship, although student -led 
+initiatives, such as independent newspapers, are very common46. 
+ Examples : Sports and fitness ; academic or faculty -specific activities (e.g. Math and 
+Science); s ocial activities and other fun events ; charity and money -raising . "
+2.1.9;Other / unspecified  activities related to study;" Note : Includes school -related activities, e.g. waiting in the schoolyard for school to start, 
+when other activities are not m entioned.  
+ Examples : Waiting in the schoolyard for a ride home . "
+2.2;FREE TIME STUDY;
+2.2.1;Free time study;" Definition : Additional studies during free time including online/ remote free time studies.  
+ Note : Includes language courses on TV, video, DVD, radio, using electronic, smart 
+devices and the internet.  
+ Note : Does not include studies during working hours, which are included in code ""111 
+Working time in main/  second job  (including short breaks and travel at work)"".  
+ Examples : Administrative courses (typing, accounting) / Correspondence studies / 
+Driving lesson / Language courses / Online language courses / Artistic courses /  
+Preparing for courses: homework related to these courses / Professional training 
+courses, not in direct connection with work / Sewing class / Talked with the supervisor  / 
+Exercising for piano lesson / Music lessons.  
+ "
+3;HOUSEHOLD AND FAMILY CARE;" Note : Includes unpaid  work done for the respondent’s own household, which at the same 
+time may be done for another household. If the unpaid  activity was done for another 
+household only, then choose the appropriate code under ""42 INFORMAL HELP TO 
+OTHER HOUSEHOLDS "".  
+ Codes have been defined so that activities regarded as SNA activities are distinguished 
+from those outside the SNA product ion boundary. All paid activities or activities 
+connected with employment are included in code "" 1 EMPLOYMENT "", e.g. purchasing or 
+repairing for the family firm. If help is provided to a family member in a family firm then 
+this activity is coded as ""111 Wor king time  in main/ second job (including short breaks 
+and travel at work)"".  "
+3.0;UNSPECIFIED HOUSEHOLD AND FAMILY CARE;
+3.0.0;Unspecified household and family care;" Examples : Doing housework / Working outdoors.  
+  
+                                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+  "
+3.1;FOOD MANAGEMENT;
+3.1.1;Food preparation  and baking;" Definition : All activities in connection with food preparation  and baking. Also includes 
+setting the table.  
+ Examples : Set the table / Brewed coffee / Cleaning fish / Cooking / Heated up some food 
+/ Made meals, snacks, drinks for own children / Preparation of coffee, snacks, aperitifs, 
+meals, etc. / Serving food to other people / Prepared a lunch box / Turned on the oven / 
+Making a pie, pastry, tart, sweets, etc. / Cleaned mushrooms . "
+3.1.2;Dish washing;" Definition : Also includes activities before and after washing up, e.g. drying up, tidying 
+away dishes, etc.  
+ Examples : Cleared the food back to the fridge / Cleared the table after breakfast/ lunch/ 
+snacks/ dinner/ supper/ coffee / Loaded/ unloaded the dishwasher.  "
+3.1.3;Storing, arranging, preserving food stocks;" Definition : All activities in connection with preserving, freezing and canning  (e.g. cleaning 
+berries, boiling jam or fruit -syrup; preparing food for use later) . 
+ Examples : Churn milk to make cheese, etc. / Killing a pig/ chicken for later use, when it 
+is not part of one’s job on a farm / Prepared food to put in the freezer / Preparing/bottling 
+of home -made wine, brandy, beer, etc. / Sorting out potatoes for preserving / Storing 
+fruits in the basement.  "
+3.2;HOUSEHOLD UPKEEP;
+3.2.1;Cleaning dwelling;" Definition : Vacuuming, washing/  waxing floors, washing windows, making beds, tidying, 
+arranging the home, etc.  
+ Examples : Airing of bedclothes / Beating rugs / Collected the children’s toys / Putting 
+away the cleaning kits / Tidied up w ardrobes.  "
+3.2.2;Cleaning garden;" Definition : Cleaning garden or pavement, clearing away snow, also composting waste, 
+etc. 
+ Examples : Cleaned around garden pool area / Cleaned patio furniture / High -pressure 
+hosed the roof or the walls of the house / Raking  together dead leaves / Swept the 
+entrance.  "
+3.2.3;Heating dwelling and water;" Definition : Supply of heating dwelling and water. Wood  cutting and collecting firewood.  
+ Note : Repairs of appliances are included in code "" 353 Making, repairing and maintaining  
+equipment "". 
+ Examples : Bringing water for laundry / Carrying water / Checked the boiler / Heating up 
+of sauna / Lit the boiler / Preparing the heating material / Warming water for bath / Went 
+down into the cellar and put firewood in the boiler  "
+3.2.4;Arranging household goods and materials;" Definition : Various kinds of arrangements of tasks at home, in a weekend home, in a 
+hotel etc. Call for goods and putting in order. Relates to own goods or goods belonging 
+to household members.  
+ Examples : Arranging clothes for the morning / Arranging purchases / Carrying out 
+garden furniture / Checking of mousetraps / Collecting mail from the letter box / Hanging 
+up curtains / Loading and unloading the shopping to/from the car / Looking for lost items 
+/ Moving to a n ew place to live / Packing and checking children’s school bags / Packing/ 
+unpacking for a trip / Packing/unpacking for a removal / Packing for school or work / 
+Packing/unpacking hobby equipment / Preparation of clothes for the next day / Preparing 
+ 
+ 
+ 
+ 
+  
+the satc hel / Put up a tent / Putting food products into refrigerator / Putting up posters / 
+Tending indoor flowers / Watered indoor flowers / Wrapped up gifts  "
+3.2.5;Recycling and disposal of waste;" Definition : Recycling is the process of converting waste materials into new materials and 
+objects. Here, it means the activity of the individual/ household collecting potentially 
+useful materials (glass, paper, plastic, aluminium, etc.) and bringing it to/ disposing it at 
+the recycling station.  
+ Examples : Took o ut rubbish, waste / Brought old glass to recycling station / Separated 
+papers, bottles, tins, etc.  "
+3.2.9;Other or unspecified household upkeep;" Definition : Activities of short duration that do not fit into the previous categories. 
+Unspecified household upk eep. 
+ Examples : Closed curtains and blinds / Closed/opened doors or windows / Locked the 
+door / Cleaning, with no distinction as to house, cellar, garage or garden.  "
+3.3;CARE FOR TEXTILES;
+3.3.1;Laundry;" Definition : Hand wash, loading and unloading washing machine, hanging out, putting 
+away (when not ironed or mangled), etc.  
+ Examples : Emptied the drying cupboard / Folding sheets and putting them into the 
+cupboard / Hand -washing, soaking, rinsing / Sorting of laundry . "
+3.3.2;Ironing;" Definition : Ironing and mangling. Tasks connected with ironing and mangling. Folding 
+and putting things into the wardrobe (after ironing or mangling).  
+ Examples : Put laundry in drawer / Sorting/folding clothes . "
+3.3.9;Other or unspecified textile care;" Definition : Repairing clothe s / Repairing and polishing shoes / Putting seasonal clothes 
+into storage / Unspecified making and care for textiles.  
+ Examples : Alteration of clothes / Changed a zip / Cleaned wellingtons . "
+3.4;GARDENING AND PET CARE;" Definition : Gardening and animal tend ing activities which are not done in connection with 
+farming.  "
+3.4.1;Gardening;" Definition : Kitchen gardening — tending vegetables, potatoes, tomatoes, etc. Also 
+harvesting. Tending outdoor flowers, mowing the lawn, etc.  
+ Note : Tending indoor flowers is included in code "" 324 Arranging household goods and 
+materials "". 
+ Note : Raking together dead leaves is included in code "" 322 Cleaning garden "". 
+ Examples : Collecting rose hips / Forestry for private use (not for firewood) / Planti ng 
+vegetables / Ploughing / Weeding / Tending apple trees / Trimming of hedge / Watering 
+the garden / Working in the garden . "
+3.4.2;Tending domestic animals;" Definition : Keeping domestic animals when products are intended only for own use.  
+ Note : Riding is included in code ""619 Other or unspecified sports or outdoor activities "". 
+ Examples : Bee -keeping / Feeding domestic animals / Grooming of own riding horse / 
+Tending hens, rabbits, sheep, etc.  
+  
+ 
+ 
+ 
+ 
+  "
+3.4.3;Caring for pets;" Definition : Feeding and washing pets, taking care of aquarium/terrarium, etc.  
+ Examples : Chased the cat back home / Groomed the dog / Training of a dog / Was at a 
+vet, dog school or in a dog show with own pet.  "
+3.4.4;Walking the dog;" Definition : Walking the dog regardless of the time spent. Als o includes outdoor activities 
+with the cat or other pets.  
+ Examples : In the forest with the dog.  "
+3.4.9;Other or unspecified gardening and pet care;" Definition : Activities of short duration that do not fit into the previous categories. 
+Unspecified gardening  and pet care.  "
+3.5;CONSTRUCTION AND REPAIRS;
+3.5.1;House construction and renovation;" Definition : Major changes to the house, including construction of a new building or major 
+extension and/ or alteration, e.g. restoration of a bathroom. Includes construc tion and 
+renovation of home, garage, outhouse, etc. Includes only activities inside the SNA 
+production boundary.  
+ Note : Activities concerning farm buildings are included in code ""111 Working time  in 
+main/ second job (including short breaks and travel at wo rk)"". 
+ Examples : Adding insulation to walls / Garage construction work / Installing electricity / 
+Lagging of a bored well / Put up drain -pipes / Restoration of a kitchen.  "
+3.5.2;Repairs to dwelling;" Definition : Minor changes to the house, not belonging to SNA. Various repairs to the 
+home, garage, outhouse etc. Includes re -plastering walls, repairing roofs, painting, 
+papering walls, carpeting, interior decoration, repairs of fittings etc.  
+ Examples : Installation  of light fittings / Mounted window -frames / Opened a blocked -up 
+sink / Panelling a ceiling / Tearing down wardrobes (before repairs) / Tiled above the 
+stove.  "
+3.5.3;Making, repairing and maintaining equipment;" Definition : Making and repairing furniture and  household goods, furnishing, production of 
+pottery, utensils and durables, etc. Repairing and maintaining tools. Assembling furniture 
+and equipment. Woodcraft.  
+ Note : Repairing farming equipment is included in code ""111 Working time in main/ 
+second job (i ncluding short breaks and travel at work)"".  
+ Examples : Changed electric bulbs / Changed the clocks to winter time / Changing a 
+lamp / Cleaned and oiled sewing machine parts / Cleaned the kitchen fan / Loading 
+batteries of mobile phone / Repairing a lamp / Repairing children’s toys / Replacement of  
+batteries / Sharpened kitchen knives / Tended garden tools.  "
+3.5.4;Vehicle maintenance;" Definition : All maintenance of vehicles and appliances of a household: cars, cycles, 
+boats, etc. done by oneself.  
+ Note : Car inspection is included in code ""362 Commercial and administrative services "". 
+ Examples : Changed tyres on the car / Docking of boat for the winter / Drove the car into 
+the garage / Getting  to know my (new) car / Put my bike in the outhouse / Renovation of 
+vintage cars / Repaired the motorcycle / Tended the car / Washing, cleaning and waxing 
+car by oneself in service station.  
+  
+ 
+ 
+ 
+ 
+  "
+3.5.9;Other or unspecified construction and repairs;" Definition : Construction and repair activities of rather short duration mostly that do not fit 
+into the previous categories. Unspecified construction and repairs.  "
+3.6;SHOPPING AND SERVICES;" Definition : Errands presuming visits to offices, institutions, etc.  
+ Note : Arranging or supervising outside services at home (e.g. phone calls to institutions) 
+is included in code ""371 Household management "". "
+3.6.1;Shopping ( including online/ e -shopping);" Definition : Shopping for consumer goods, such as drinks, newspapers, magazines, 
+cigarettes, sweets, etc. Including also semi -durable consumer goods. Buying clothes, 
+shoes, books, etc. Purchasing for maintenance and repair. Also looking at things in 
+shops, flea marke ts, etc. Purchasing capital goods, such as a home, a car, furniture, and 
+household appliances.  Includes all forms of electronic commerce which allows 
+consumers to directly buy goods or services from a seller over the Internet using a web 
+browser.  
+ Note : Shopping for farming goods is included in code ""111 Working time in main/ second 
+job (including short breaks and travel at work)"".  
+ Examples : Bought a present / Bought plants for the garden / Bought snack food from a  
+kiosk / Fuelling a motor vehicle / Inspec ting a car at a car showroom / Looked at an 
+apartment for sale / Looked at clothes / Purchasing medicines / Purchasing tickets (for 
+the cinema, swimming pool, etc.) / Tried on clothes in a shop / Was at a food store / Was 
+at estate agents / Was at the mark et / Ordered goods by Internet / Buying air tickets by 
+Internet / Buying theatre tickets by Internet  / Buying cinema tickets from home . "
+3.6.2;Commercial and administrative services;" Definition : Commercial services like laundry, tailor, shoemaker, etc. Visiting post office, 
+bank, bank adviser, accountant, lawyer, insurance adviser, municipality authorities, 
+police station, centre for car inspection, travel agency, etc. Auto services, automatic car 
+wash, repair and other auto services  
+ Note : Calling or vi siting a labour office is in code ""129 Other or unspecified activities 
+related to employment "". 
+ Note : Phone calls to institutions etc. are included in code ""371 Household management "". 
+ Note : Own work on car done in a garage or at home is included in code ""354 Vehicle 
+maintenance "". Fuelling a car is included in code ""361 Shopping  (including online/ e -
+shopping) "". 
+ Note : Activities (calling the vet, talking to vet, etc.) in connection with Veterinary services 
+for cattle (if it is on a farm) are included in code ""111 Working time in main/ second job 
+(including short breaks and travel at work)""  and for pets in code ""343 Caring for pets "". 
+ Examples : Car inspection at car inspection centre / Check -in to hotel / Fetched a 
+package from the post office / Fetched shoes  from the shoemaker’s / Had oil change and 
+car greased in a garage, as paid service / Hotel services / Paying bills at ATM /  
+Withdrawing money from cash machine / Visited travel agency / Waiting at customs / 
+Was at decoration service . "
+3.6.9;Other or unspec ified shopping and services; Example : Waited in the car while my wife was shopping  
+3.7;HOUSEHOLD MANAGEMENT;
+3.7.1;Household management;" Definition : Planning and arranging, budgeting, paperwork, making a shopping list, 
+arranging and supervising outside ser vices at home. Phone calls to institutions, 
+correspondence with authorities.  
+ Note : Visiting the bank, post office, etc. is included in code "" 363 Commercial and 
+ 
+ 
+ 
+ 
+  
+administrative services "". 
+ Note : Management in connection with farming is included in code ""111  Working time in 
+main/ second job (including short breaks and travel at work)"".  
+ Note : Visiting the shop etc. is included in code "" 361 Shopping "". 
+ Note : Shopping for farming goods is included in code ""111 Working time in main/ second 
+job (including short b reaks and travel at work)"".  
+ Examples : Attendance during repairs (supervision) / Bank services by phone or Internet / 
+Called the paint shop / Checking of bookkeeping / Filling in bank giro forms / Ordered a 
+pizza by phone / Planned a journey / Planned a pa rty / Planned a birthday party for my 
+son / Planned food purchases, meals / Planned weekend programme for the family.  "
+3.8;CHILDCARE;" Definition : Care given by parents, and older children (up to 17 years) taking care of 
+younger siblings.  
+ Note : The upper age limit of a ""child "" – whether in an active role (i.e. taking care of 
+younger siblings or in a passive role (i.e. activities 381, 382 , 383 and 389 ) – is always 17 
+years.  Sons and daughters of a family who are 18 years or older should be class ified in 
+HETUS as ""other household members"".  
+ Note : Childminding for another household only is included in informal help to other 
+households, code "" 423 Care of own children living in another household "" or code "" 424 
+Childcare as help to another household "". "
+3.8.1;Physical care and supervision  of child;" Definition : Feeding, dressing, washing and preparing children for bed, etc. Supervision of 
+child /ren indoors or outdoors.  It includes passive care like minding/ watching child /ren. 
+ Examples : Babysitting my younger sister / Breast -fed my child / Changed nappies / 
+Combed my child’s hair / Holding my child in my arms / Putting my children to bed /  
+Taking care of a sick child / Waking up my child / Was at the playground with the 
+children (supervision outdoors) /  Watching children (including my own) playing in the 
+playground, in the garden . "
+3.8.2;Teaching the child;" Definition : Help with homework, giving guidance.  
+ Examples : Checked homework . "
+3.8.3;Reading, playing and talking with child;" Note : Siblings talking wi th each other is included in code ""511 Socialising with family "". 
+ Note : Siblings playing together is included in code ""732 Parlour games and play "". 
+ Note : Looking TV with children is in code ""821 Watching TV, video or DVD "". 
+ Examples : Entertained the children / Playing games with the children / Read a story to 
+the children/ to my sister.  "
+3.8.4;Accompanying child;" Definition : Accompanying child to a doctor. Waiting at a sports centre, music lesson, etc., 
+if no other activity than waiti ng is specified. Visiting school, nursery. Parents’ meetings at 
+school.  
+ Note : If any other activity than waiting is specified, the actual activity should be coded. 
+Time spent on travel is coded ""938 Travel related to childcare "". 
+ Examples : Attending end o f term celebration at school / Parent's meeting / At school with 
+my child / Attending children's party at school / Talking with a carer, teacher etc. / Visiting 
+babysitter  / Watching my child’s physical training . "
+3.8.9;Other or unspecified childcare;" Examples : Listened to my daughter playing the piano at home / Helped the children.  
+ 
+ 
+ 
+ 
+  "
+3.9;HELP TO AN ADULT HOUSEHOLD MEMBER;" Definition : Adult assistance and care (except housework).  
+ Note : Help and care to an adult belonging to another household is included  in ""42 
+INFORMAL HELP TO OTHER HOUSEHOLDS "". 
+ Note : Housework tasks are coded according to the activity, e.g. cooking for a household 
+member is included in code ""311 Food preparation  and baking "". "
+3.9.1;Physical care of a n adult household member;" Definition : Feeding, washing, dressing and preparing them for bed.  It includes care of an 
+adult temporary sick , but also help for a non -dependent member of the household . 
+ Note : For people who suffer any physical or mental illness or any disability or problem 
+impairi ng their day -to-day activities , but also for non -dependent household members . 
+ Examples : Feeding my elderly mother / Changed nappies / Dressing my Alzheimer -sick 
+wife / Tie shoelace for my elderly father / Combed my elderly mother’s hair / Help to go 
+upsta irs / Putting my disabled husband to bed / Preparing the medicine for my sister 
+(mentally disabled)  / Taking care of an adult temporarily sick . "
+3.9.2;Other support to of an adult household member;" Definition : Supervision indoors and outdoors  (passive care) . Accompanying an adult at 
+home to visit a doctor. Waiting at a day centre (if no other activity than waiting is 
+specified). Visiting a household member in hospital or day centre. Teaching a mentally 
+disabled adult or elderly people. Giving guidance. Menta l help, information and advice.  
+Affective support. Other care and assistance to a dependent or non -dependent adult 
+household member.  
+ Note : For people who suffer any physical or mental illness or any disability or problem 
+impairing their day -to-day activi ties, but also for non -dependent household members . 
+ Examples : Was at the playground with the elderly adult (supervision outdoors) / Talking 
+with a carer, doctor etc. / Went with my mother to the doctor / Teaching grandmother 
+how to use computer/ smartphon e / Entertained my elderly father who lives with us / 
+Playing games with my mentally disabled brother  / Cutting husband's or wife's hair, 
+massaging / Waking up adults (husband, wife, etc.).  
+ "
+4;VOLUNTARY WORK AND MEETINGS;
+4.1;ORGANISATIONAL WORK; Definition : Working as a volunteer free of charge or for a minor fee.  
+4.1.1;Organisational work (work for or through an organisation);" Definition : Work done for or through an organisation. Work for groups and associations, 
+as well as work for school and ki ndergarten and neighbourhood groups, etc. Work as a 
+committee member. Administrative work. Preparing activities, work for events. Baking, 
+etc. for the organisation, working in the canteen. Repairs and other odd jobs for the 
+organisation. Voluntary fire bri gade. Bookkeeping for clubs. Giving information, 
+distributing leaflets. Activities connected with collecting money for the organisation. 
+Volunteer work.  
+ Care of the elderly and disabled via an organisation. Delivering meals. Teacher or 
+course instructor.  Coach, referee, etc. in sports and gymnastics. Leader of a youth 
+group, e.g. scout leader. Work in a childcare group. Leading or organising self -help 
+group.  
+ Note : Informal help to private households is included in code ""42 INFORMAL HELP TO  
+OTHER HOUSEHOL DS"" and is coded according to the actual activity.  
+ Examples : Board meeting / Collected material for a board meeting / Computer work for 
+the hockey club / Counted and delivered ordered clothes (for the riding club) / 
+Distribution of meeting notices / Elect ion night activities / Environmental care and animal 
+ 
+ 
+ 
+ 
+  
+protection / Fetched/sold Bingo lottery tickets / Preparing for the council meeting / 
+Recruitment of sponsors / Sorted clothes (sale for the riding club) / Sorted 
+correspondence of the club / Working wit h the organisation’s newsletter / Activities as 
+member of religious helping groups: hospital visiting, soup kitchen, support groups, etc.  
+ Coached handball team / Coaching sports / Donating blood made through an 
+organisation, e.g. red cross / Helped at the  refugee centre / Helping with organised 
+activities in the baths and clearing up the bathing -place / Leading religious youth group / 
+Meeting with the youth section / Road maintenance in a voluntary group  "
+4.2;INFORMAL HELP TO OTHER HOUSEHOLDS;" Definition : Direct help given by the respondent to another household and not arranged 
+by an organisation.  
+ Note : Should be coded as secondary activity if the activity is done for the respondent’s 
+own household at the same time.  "
+4.2.1;Construction and repairs as help;" Definition : Help to another household with building a house, repairing a car, and other 
+activities that are included in code ""35 CONSTRUCTION AND REPAIRS"" . 
+ Examples : Helped repair the neighbour’s roof / Made a toy for the grandchildren.  "
+4.2.2;Help in empl oyment and farming;" Definition : Unpaid help provided by the respondent to a person of another household 
+with that person’s paid work, or to another household with farming activities.  
+ Examples : Help with milking, tending cattle/cows/calves, helped on my un cle’s farm, 
+helped my sister to clean the office . "
+4.2.3;Care of own children living in another household;" Definition : Help to another household with activities that are included in ""38 
+CHILDCARE"" , when the care is for one's own child up to 17 years of age living in 
+another household.  
+ Examples : Taking care, over the weekend, of own child usually living with ex -partner.  "
+4.2.4;Childcare as help to another household;" Definition : Help to another household with activities that are included in code ""38 
+CHILDCARE"" (except code ""423 own children living in another household ""). 
+ Examples : Unpaid childminding / Minding  grandchildren.  "
+4.2.5;Providing help to an adult person in another household;" Definition : Adult assistance and care and other activities th at are included in code "" 39 
+HELP TO AN ADULT HOUSEHOLD MEMBER "" (there within the own household , here 
+for a person outside the own household) . 
+ Examples : Went with my mother (who lives in another household) to the doctor / Help to 
+my disabled or sick sister  (another household) / Entertained my disabled or sick friend 
+(another household) / Assistance offered by lending money / Giving mental support to a 
+friend / Visiting an old people’s home, hospital, etc.  / Teaching old neighbour how to use 
+computer/ smartp hone.  "
+4.2.9;Other/ unspecified informal  help to another household;" Definition : Help to another household with activities that are included (there for the own 
+household , here for a person outside the own household ) in code ""31 FOOD 
+MANAGEMENT "" (e.g. cooking , baking, preserving, dishwashing), in code ""32 
+HOUSEHOLD UPKEEP "" or code ""33 CARE FOR TEXTILES "" (e.g. indoor and outdoor 
+cleaning, laundry, ironing), in code ""34 GARDENING  AND PET CARE "" (e.g. walking the 
+dog, gardening), in code ""36 SHOPPING AND SERVICES "" or in code ""37 HOUSEHOLD 
+MANAGEMENT "". 
+ Note : Accompanying an adult to the doctor is included in code ""425 Providing help to an 
+ 
+ 
+ 
+ 
+  
+adult person in another household "". 
+ Examples : Baked for my elderly parents / Helped the hostess with the cooking / Washed 
+dishes during the visit / Helped with removal / Watered indoor flowers at the neighbour’s 
+/ Feeding a neighbour's dog / Mowing the lawn for my elderly mother / Went with the 
+neighbour to buy a car / Helping a neighbour / Delivered food to my neighbour / He lping 
+a relative.  "
+4.3;PARTICIPATORY AND RELIGIOUS ACTIVITIES; Definition : Attending meetings free of charge or for a minor fee.  
+4.3.1;Meetings;" Definition : Attending meetings and other organisational activities when not in a position 
+of trust. Concerns a ll kind of meetings, etc. arranged by social, political, scout and other 
+organisations, informal clubs and groups.  
+ Note : Parent’s meeting is included in code ""384 Accompanying child "". 
+ Examples : Organised programme in a Scout camp / Political party meetin g. "
+4.3.2;Religious activities;" Definition : Visiting church, synagogue, mosque or other temple. Participating in religious 
+ceremonies like weddings, funerals. Religious practice, praying, reading holy books, 
+religious ceremonies, also at home.  Listening to religious service (also on TV, radio and 
+video; media as secondary activity).  
+ Note : The wedding party after the ceremony is included in code ""513 Celebrations "". 
+ Note : Singing in church in a choir is included in code ""711 Arts (visual, performing, 
+literary) "". 
+ Note : Breaks in work because of prayer are included in code ""111 Working time in main 
+and second job (including short breaks and travel at work) "". 
+ Examples : Attended mass / Attending Sunday school, confirmation class / Listening to 
+recordings of religious ceremonies / Reading the Bible / Watching religious services on 
+TV / Participating in ceremonies of baptism, confirmation, first communion / Religious 
+meeting / Religious practice carried out in a small group / Studying the bible  with family.  "
+4.3.3;Visits to cemetery and grave care;" Definition : Visiting the graveyard / s pend ing time in a cemetery. maintain a grave. A 
+grave is a place where a dead person or dead people are buried, esp. when under the 
+ground and marked by a stone.  
+ Examples : Prayed at the grave of my father / tending flowers on a grave / cleaning the 
+gravestone.  "
+4.3.9;Other or unspecified participatory  activities;" Examples : Voting / Witness in court / Donating blood individually (e.g. going directly to 
+hospital).  
+ "
+5;SOCIAL LIFE AND ENTERTAINMENT;
+5.1;SOCIAL LIFE;
+5.1.1;Socialising with family;" Definition : Socialising with household  members only, when other activities are not 
+mentioned. Within family, when not visiting  
+ Note : Parents socialising with own children is coded as ""383 Reading, playing and 
+talking with child "". 
+ Note : Only talking between kids is coded as 511 while games/ playing should be in 
+code ""732 Parlour games and play"".  
+ 
+ 
+ 
+ 
+  
+ Examples : Argued with my big sister / Talked with my brother / Said goodbye to my 
+family / Teasing my brother  "
+5.1.2;Visiting and receiving visitors;" Definition : Socialising with friends and relatives at home or in their home. Household 
+members can also be present.  
+ Note : The respondent is aske d to report on her/ his activities while visiting/ receiving  
+visitors (e.g. eating, watching TV, playing games, etc.). Each such activity is given the 
+appropriate code in the ""Main activity column"".  
+ Note : The code 512 is used in the ""Secondary activity"" c olumn, to indicate that the 
+activity was performed while visiting/receiving visitors. If the diary does not specify what 
+the respondent did while visiting/receiving visitors, or if only socialising is mentioned, 
+then the code 512 should be used in the main  activity column.  
+ Example : Example on how to use code 512:  
+  
+ Examples : My family came to visit / Had a visitor / Visited my friend.  "
+5.1.3;Celebrations;" Definition : Weddings, funerals, confirmation parties, graduations and big anniversaries. 
+Together with household members, friends, relatives, etc. Private occasions at or outside 
+home. Parties at work, organisations, etc.  
+ Note : Occasions in church, synagogue, mosqu e or other temple are included in code 
+""432 Religious activities "". 
+ Note : Attending children’s parties at school or nursery is included in code ""384 
+Accompanying child "". "
+5.1.4;Audio and video conversation;" Definition : Conversations that are not in person (i.e. not face -to-face conversations) with 
+members of the family, friends, relatives, etc.in spoken language.  
+ Note : Phone calls to institutions, shops, etc. are included in code ""371 Household 
+management "". Phone calls in connection with job are included in code ""111 Working 
+time in main/ second job (including short breaks and travel at work)"".  
+ Examples : Had a video call with my s on / Called my landlord  / Listened to messages on 
+the answering machine  / Talked with a friend on Skype /  Phone call with a friend / Sent 
+voice messages on Facebook Messenger . "
+5.1.5;Communication by  text messaging (SMS, instant messages, email, etc.);" Definition : Communication  with members of the family, friends, relatives, etc. by  sending/ 
+receiving text messages electronically or on paper (e.g. email  messag es / SMS  / instant 
+messages sent via internet like on Viber, Whats App, Messenger, Snapchat, etc.) / Writ e 
+and read personal letters, faxes, etc . 
+ Examples : Reading, writing/ sen ding text messages  on mobile phone  / Checked the mail 
+on computer, tablet, smart phone / Wrote Christmas cards, etc .. 
+ Note : Talking with a friend on Skype, Viber, Facebook Messenger or any other  VoIP 
+(Voice over the Internet) protocol s should be coded as ""514 Audio and video 
+conversation "". 
+  
+
+ 
+ 
+ 
+ 
+  "
+5.1.6;Time spent on social media;" Definition : Social media are online services or sites through which people  can 
+communicate and hold conversations in form of posted messages. They can be in the 
+form of short messages (e.g. chat rooms) or longer texts (including temporary archiving) 
+for topical online discussions on forums, blogs, microblogs, etc. Included are a lso 
+business networks, video and photo sharing . 
+ Examples : Facebook / Tumblr / Instagram / Twitter / Linkedin  / etc. "
+5.1.9;Other or unspecified social life;" Definition : Spending time face -to-face together with friends, relatives, etc. Household 
+members can  also be present.  
+ Examples : Conversation with neighbour / Conversations with relatives in a cafeteria / 
+Outdoors with friends / Was at a pub with a friend / Was together with friends  "
+5.2;ENTERTAINMENT AND CULTURE; Definition : As spectator/ listener.  
+5.2.1;Cinema;" Definition : Watching movies in cinema or movie club. Waiting for the doors to open.  
+ Note: Ordering a ticket is included in code ""371 Household management "", and buying 
+the ticket is included in code "" 361 Shopping (including online/ e -shopping )"". "
+5.2.2;Theatre and concerts;" Definition : Also opera, musical, operetta, ballet, dance performance. Live music concert, 
+street performance, etc.  
+ Examples : Dance (ballet, modern dance and other dance) / Live music (concert, 
+chamber recital, jazz, rock concer t, etc.) / Music theatre (opera, light opera, musicals and 
+other music theatre) / Other performance (street theatre, multi -media, etc.) / Plays.  "
+5.2.3;Art exhibitions, museums and cultural sites;" Definition : Visit the space in which art objects meet an aud ience. Visit a museum, i.e. an 
+institution that cares and conserves a collection of artifacts and other objects of artistic, 
+cultural, historical, or scientific importance. Visit a site of cultural heritage importance.  
+ Examples : Visit town museum / Visit art gallery / Visit cathedral, church, abbey, 
+synagogue, mosque as a cultural site / Visit stately homes, (castles, monuments, historic 
+houses) /  
+ Note : Visit cathedral, church, abbey, synagogue, mosque for religious reasons (mass, 
+celebration, prayer, etc.) is code d as ""432 Religious activities"".  "
+5.2.4;Library;" Definition : Borrowing books, records, audiotapes, videotapes, etc. Using a computer in 
+the library. Reading newspapers or listening to music in the library.  
+ Note : Studies in a library are included in code ""212 Homework ""or in code ""221 Free time 
+study "". 
+ Examples : Borrowed a book from the school library / Searching for a book in the library 
+catalogue (also with the help of computer).  "
+5.2.5;Attending live sports events;" Definition : Attending a sports event, e.g. car race, horse race, football match, etc. 
+(including breaks).  
+ Note : Watching sports events on TV is included in code ""821 Watching TV, Video or 
+DVD "". Accompanying own child at a sports centre is code d as ""384 Accompanying 
+child "", if just for exercising, not for competition.  
+ Examples : Boxing, Wrestling, Martial arts / Cricket / Horse and dog sports (horse racing, 
+ 
+ 
+ 
+ 
+  
+show jumping, polo, dressage, greyhound racing, etc.) / Watched child's tournament / 
+Motor sp orts (car/motorcycle racing, rallying, scrambling, time trials, etc.) / Rugby union, 
+Rugby league / Soccer, American football.  "
+5.2.6;Zoos, botanical gardens, natural reserves, etc.;" Definition : Zoos (Wildlife park, sea -life centre, animal park, safari park ), botanical 
+gardens, natural reserves, arboretum.  
+ Examples : Walked around the zoological gardens / Admired plants in the botanical 
+gardens.  "
+5.2.9;Other or unspecified entertainment and culture;" Examples : Car shows / Cathedral, church, abbey / Consumer events / Factory visits (e.g. 
+brewery) / Fairs, sales exhibitions, etc. / Fashion show / Leisure parks (theme park, pier, 
+fairground, circus, fete, fairground, carnival) / One -off special event (e.g. tall ships race) / 
+Stately homes, etc. (castles, monumen ts, historic houses) / Was on a visit to the fire -
+brigade.  "
+5.3;RESTING — TIME OUT;
+5.3.1;Resting — Time out;" Definition : Doing nothing, just sitting, reflecting, relaxing, resting, waiting, meditating, 
+smoking, sun bathing, thinking, talking to/ stroking a  cat or dog, etc.  
+ Note : Waiting in the car while a household member is shopping is coded as ""369 Other  
+or unspecified shopping and services "". 
+ Note : Waiting at the doctor’s, the dentist’s, in a queue at the bank, etc. is given the same 
+code as the main ac tivity connected with the waiting.  
+ Note : Waiting for the bus is coded with the suitable travel code.  
+ Examples : Admiring a flower / Being bored / Cooling off / Did not do anything special / 
+Gathering strength / Just let the time pass / Looked out through the window / Just 
+listening to birds / Killed time / Lay in bed after lunch and rested / Lazed around / 
+Lounging / Lying in sun / Philosophised (alone) / To be at the beach / Took it easy / Tried 
+to get to know myself / Waited for the children to come / Wa ited for guests to arrive / 
+Walking in the house or around it / Watched an aquarium / Watched through the window 
+/ Watching e.g. aeroplanes, people in general, boats.  
+ "
+6;SPORTS AND OUTDOOR ACTIVITIES;" Note : Includes activities for physical exercise, but  not trips with a special purpose (e.g. 
+on foot to work).  "
+6.1;PHYSICAL EXERCISE;
+6.1.1;Walking and hiking;" Definition : Walking in town, in the countryside, etc. Looking at shop windows during a 
+walk.  
+ Note : Walking the dog is coded as ""344 Walking the dog "". 
+ Examples : Picked wild flowers during a nature walk / Strolled in town / Taking a walk 
+with the child in the neighbourhood (but exclude bringing child to activities, this should 
+belong to code ""384 Accompanying child "") / Took a nature walk / Watched bir ds during 
+the walk.  "
+6.1.2;Jogging and running; Definition : For physical exercise.  
+6.1.3;Cycling, skiing and skating;" Definition : For exercise.  
+ 
+ 
+ 
+ 
+  
+ Examples : Alpine skiing, snowboarding / Cross -country skiing / Roller skating, in -line 
+skating / Ski jumping  "
+6.1.4;Ball games;" Definition : Football, rugby, volleyball, basketball, tennis, squash, badminton, table tennis, 
+ice hockey, bowling, golf, etc.  
+ Examples : Football training / Kicked ball / Playing handball / Playing field hockey / 
+Playing soccer  "
+6.1.5;Gymnastics and fitness;" Definition : Organised programme or at home. All types of gymnastics, aerobic, yoga, etc. 
+Exercise in fitness centre/ gym or at home using equipment.  
+ Examples : Back gymnastics / Aerobics / Qi Gong / Morning gymnastics at home / 
+Stretching / Body building / Using an exercise bike / Weight -lifting  "
+6.1.6;Water sports;" Definition : Rowing, sailing, windsurfing, etc.  
+ Examples : Swimming in the pool / Water gymnastics  "
+6.1.9;Other or unspecified sports or outdoor activities;" Examples : Archery / Carting / Dancing / Judo, karate, etc. / Go -kart racing / Motor sports 
+/ Mountain climbing / Riding / Attended a sports course / Attended training / Exercised a 
+little.  "
+6.2;PRODUCTIVE EXERCISE;
+6.2.1;Productive exercise (e.g. hunting, fishing, pick ing berries, mushrooms or;"herbs)  
+ Definition : Productive activities of monetary value belonging to SNA.  
+ Examples : Gutting and skinning in the forest / Sprat -nets into the lake / Waited for the 
+moose / Picking aromatic plants  "
+6.3;SPORTS RELATED ACTIVITIES;
+6.3.1;Sports related activities;" Definition : Activities related to sports and physical exercise, e.g. assembling and 
+preparing sports equipment or getting changed at the sports centre. It does not include 
+active sports and travel.  
+ Note : Packing equipment, clothes, etc. at home is coded as ""324 Arranging household 
+goods and materials "". 
+ Examples : Waited for the gymnastics to start / Chose a horse / Cleaned nets / Cleaning 
+of hunting gear / Unpacked jogging/training  equipment at the sport s centre.  
+ "
+7;HOBBIES;
+7.1;ARTS AND HOBBIES;
+7.1.1;Arts (visual, performing, literary);" Definition : Activities connected with creating paintings, photography, sculpture, ceramics, 
+graphics, pottery, etc. at home or in a club. Also visual arts created with  the help of a 
+computer. Singing, acting, playing alone or in a group. Producing music. Also performing 
+arts created with help of a computer. Writing novels, poetry, personal diary, etc. Literary 
+arts, also when use of computer is mentioned.  
+ Note : Studyin g arts during free time is included in code ""221 Free time study "". 
+ Note : Filling in the Time use diary is coded as ""995 Filling in the time use diary "". 
+ Examples : Painted china / Video -filmed children / Choir practising in church / Live role -
+ 
+ 
+ 
+ 
+  
+play / Played  music on the keyboard / Played the clarinet in an orchestra / Played the 
+piano / Playing in a band / Practised with the orchestra / Sang a little / Singing in a choir / 
+Singing karaoke / Warmed up before concert / Wrote a book / Wrote down memorable 
+momen ts (concerts, etc.) .  "
+7.1.2;Collecting;" Definition : Collecting stamps, coins, etc.  
+ Examples : Exchanged ice hockey cards / Sorting stamps . "
+7.1.3;Making handicraft products;" Definition : Includes only making new products — not repairing clothes etc. — as this 
+distinction is needed for household satellite accounts. Includes hand  knitting, 
+needlework, embroidery, etc. and handicraft done by machine or  weaving.  
+ Examples : Crocheting  / Making new clothes, curtains, etc. using a sewing -machine  / 
+Sewing  / Stitch ing / Weaving rag -carpets  "
+7.1.9;Other or unspecified hobbies;" Definition : Hobbies not included in the previous categories, research as hobby, 
+genealogy, assembling apparatus, watching and sorting photos, slides, etc.  
+ Note : Woodcraft is included in code 719 if it is done as a hobby. If it is done for repair, it 
+should be coded as ""353 Making, repairing and maintaining equipment"".  
+ Examples : Chemical experiments / Framing slides / Looked at slides on projector / 
+Making miniatures (aircraft, etc.) / Put pic tures into a photo album / Watched movies via 
+film-projector  / Made, sorted or edited  (with Photoshop) photos . "
+7.2;COMPUTING;
+7.2.1;Computing;" Definition : Programming  on computer, tablet, smartphone. Experimenting/ learning new 
+software/ apps, creating app s, etc. as a hobby . 
+ Examples : Building (assembling) the own computer / Fixing the computer /  Installing a 
+computer game / Creating a new function by ""playing around"" with LINUX / Downloaded 
+a mobile app.  "
+7.2.2;Information search using internet;" Definition : Seeking, reading information by means of a computer, via network (e.g. 
+netsurfing) or other data medium (e.g. encyclopaedia on CD Rom).  
+ Note : Household management computing is included in code ""371 Household 
+management "". 
+ Note : Playing computer games is coded as ""733 Computer games "". 
+ Note : All kinds of electronic communication (audio and video conversation, text 
+messaging and online social media is to be coded as ""51 SOCIAL LIFE "" and the 
+according three -digit codes (""514 Audio and  video conversation"", ""515 Communication 
+by text messaging (SMS instant messages, email, etc.)"" and ""516  Time spent on social 
+media ""). Sorting and editing photos is coded under 719: Other or unspecified hobbies.  
+ Examples : Surfed on Internet / Used the modem  / Downloaded music or films / Uploaded 
+photos on computer  / Seeking for a recipe, for the weather forecast, for shop opening 
+hours, for directions (google maps) , etc. "
+7.2.9;Other or unspecified computing;" Definition : Unspecified computing or specified computing not mentioned above.  
+ Examples : Sat by the computer / Tapped at the computer keyboard / Worked at the 
+computer (when not in employment) . 
+  
+ 
+ 
+ 
+ 
+  "
+7.3;GAMES;
+7.3.1;Solo games and play, gambling;" Definition : Crosswords, patience, etc. , solo game s / Playing alone with dolls, toys, cats, 
+dogs, etc.  / Lottery, etc. / Also  playing cards (alone) specified as gambling.  
+ Examples : Assembled a jigsaw puzzle (when alone) / Pinball (playing machine) / 
+Practised card tricks / Betting (on -course and in betting shop) / Bingo / Gambling at 
+casino / Have played in the shop / In betting shop / National Lottery / Playing cards for 
+money / Pools / Slot (jackpot) machine.  "
+7.3.2;Parlour games and play;" Definition : Forms of play and games indoors and outdoors  involving more than one 
+person . Children playing with each other . 
+ Note : Games as gambling are included in code ""731 Solo games and play, gambling "". 
+ Note : Live role games are included in code ""711 Arts (visual, performing, literary).  
+ Note : Parent playing with own child aged up to 17 is included in code ""383 Reading, 
+playing, talking with child "". 
+ Note : Only talking between kids is coded as ""511 Socialising with family"".  
+ Examples : Cards, dice, dominoes, chess and other board games / Billia rds, snooker, 
+darts / Outdoor games such as boules and p étanque / Noughts and crosses / 
+Backgammon / Bridge.  "
+7.3.3;Computer games;" Definition : Computer and video games played on desktop or laptop computer.  
+ Examples : Playing patience on the computer  "
+7.3.4;Console games (on home console);" Definition : Video games played on a home console.  
+ Examples : Playing Nintendo, Play -station, Xbox.  "
+7.3.5;Mobile games (on handheld device/ smartphone);" Definition : Mobile games are video games played on a feature phone, smartphone/ 
+tablet, smartwatch, PDA, portable media player or graphing calculator.  
+ Examples : Online games / Ravensworld: Shadowlands / Need for speed most wanted / 
+New star soccer / Walking Mars / Temple run  / Games on Facebook . "
+7.3.9;Other or unspecified  games;" Examples : Played a game . 
+ "
+8;MASS MEDIA;
+8.1;READING;
+8.1.1;Reading periodicals;" Definition : Reading daily, weekly, monthly, quarterly, etc. publications — newspapers, 
+magazines , including online news/ newspapers/ news magazines . Reading local/  
+national/ international newspapers.  
+ Note : Reading strictly connected with work is included in code ""111 Working time in 
+main/ second job (including short breaks and travel at work)"" . 
+ Note : Online periodicals can either be a stand -alone publication or the  online version of a 
+printed periodical.  
+ Examples : Comics / Free distribution papers / Reading a hunting journal / Reading 
+afternoon papers / Reading cartoons / Reading a computer journal / Reading the 
+ 
+ 
+ 
+ 
+  
+morning papers / Reading a scientific journal / Reade r’s digest  / Read the Guardian 
+online.  "
+8.1.2;Reading books;" Definition : Novels, life stories, instructional books,  including e -books , audio books  and 
+reading books online . E-books (abbreviation for ""electronic books"") are books which are 
+produced for reading on a computer screen. Audio books are voice recordings of the text 
+of a book that you listen to rather than read. Nowadays, a vast selection of audio books 
+are availabl e online from many different sources.  
+ Note : Reading strictly connected with work is included in code ""111 Working time in 
+main/ second job (including short breaks and travel at work)"" . 
+ Note : Reading for an exam is included in code ""212 Homework "". 
+ Note : Reading the Bible is included in code ""432 Religious activities "". 
+ Examples : Looking in the encyclopaedia / Reading a biography / Reading a romance  / 
+Read a book on my Kindle / Listened to a book on Spotify.  "
+8.1.9;Other or unspecified reading;" Definition : Brochures, advertisements, etc.  
+ Examples : Looked in a clothes catalogue / Read a furniture catalogue / Read a mail 
+order catalogue / Read old personal letters / Read travel catalogues / Reading of user 
+instructions / Reading of post / Read in bed . "
+8.2;TV, VIDEO AND DVD;
+8.2.1;Watching TV, video or DVD;" Definition : Watching TV, DVD or video when specified. Includes videotaped TV 
+programmes and borrowed films.  Includes also Internet TV - content distributed over the 
+Internet, available wherever a broadband connection exists. It includes Web -based 
+shows, video on demand (VOD) (e.g. BBC iplayer, Netflix, Amazon Prime, Viaplay, 
+HBO,etc.), streaming video and regul ar television shows hosted on the channel's 
+websites (Youtube, Vimeo, Flickr, etc.).  
+ Note : Following courses (language courses, etc.) on TV is included in code ""221 Free 
+time study "". Watching TV is coded as secondary activity.  
+ Note : Watching religious se rvices on TV is included in code ""432 Religious activities "". 
+Watching TV is coded as secondary activity.  
+ Examples : Listened to music on TV / Teletext / Watched movies / Watched TV with the 
+children / Watched vlog / Video recording / Watched  a DVD film / Watched a home video  
+/ Watched a video film  / Downloaded and watched a movie / watched show on Netflix; 
+watched movie on Youtube.  "
+8.3;RADIO AND RECORDINGS;
+8.3.1;Listening to radio or recordings;" Definition : Listening to the radio: music, new s, commentaries, etc. Listening to music 
+from CDs, MP3 players and digital audio files, cassettes, records and digital audio files.  
+Also listening to music directly from internet/ streaming (e.g. Youtube, Spotify) or 
+downloaded from Internet.  
+ Note : Follow ing courses (language courses etc.) on radio is included in ""221 Free time 
+study"". Listening to the radio is coded as secondary activity.  
+ Note : Listening to religious services on radio is included in ""432 Religious activities"". 
+Listening to the radio is c oded as secondary activity.  
+ Examples : Recording music / Taping  / Listened to music   
+ Note : Downloading music  is included in 722 Information search using internet . 
+ 
+ 
+ 
+ 
+ 
+  "
+9;TRAVEL AND UNSPECIFIED TIME USE;" Note : This group includes two different types of codes, which are 1) codes for travel 
+related to its main purpose, and 2) auxiliary codes for activities that cannot be classified 
+as belonging to any of the activity groups 0 -8. 
+ Note : Also included in this group is code "" 995 Filling in the Time use diary "". 
+ Note : Travel as part of/ during job is coded as ""111 Working time in main/ second job 
+(including short breaks and travel at work)"".  
+   TRAVEL BY PURPOSE  
+ Definition : Movement between two localities, except when the activity is physical 
+exercise like jogging, walking the dog or just walking. See also section 4.3.2.  
+Characteristics of the cod ing system.  
+ Note : When several activities are done at the same location the main purpose will define 
+the trip, e.g. travel in connection with a visit is coded ""950 Travel related to social life "", in 
+connection with help to another household is coded ""940 Travel related to volunteer work 
+and meetings "", and in connection with eating is coded ""900 Other or unspecified travel 
+purpose "". 
+ Note : When the activity is mixed with the trip no subjective distinction between activity 
+and travel should be made. The main rule is to code the whole episode by the activity, 
+e.g. went shopping is coded ""361 Shopping "". "
+9.1.0;Travel to/from work;" Definition : Travel to or from work (both main and second job(s)).  
+ Note : Trips connected with shopping, childcare, etc. should be separated.  "
+9.2.0;Travel related to study;" Definition : Travel to or from school or university. Other travel related to school/university, 
+e.g. excursions. Travel related to free time study.  "
+9.3.6;Travel related to shopping and services;" Definition : Travel related to  codes  ""36 SHOPPING AND SERVICES""  and ""37 
+HOUSEHOLD MANAGEMENT"" . 
+ Examples : By car to the shopping centre / Walked to the shop.  "
+9.3.8;Travel related to childcare; Examples : Taking own children to school, practice, etc.  
+9.3.9;Travel related to other household care;" Definition : Travel related to  codes 31 ""FOOD MANAGEMENT"" ; ""32 HOUSEHOLD 
+UPKEEP"" ; ""33 CARE FOR TEXTILES"" ; ""34 GARDENDING  AND PET CARE"" and  ""35 
+CONSTRUCTION AND REPAIRS"" ; it also includes the t ransporting an adult household 
+member.  
+ Example : Driving spouse to work  "
+9.4.0;Travel related to voluntary work and meetings;" Definition : Travel related to  codes  ""41 ORGANISATIONAL WORK"",  ""42 INFORMAL 
+HELP TO OTHER HOUSEHOLDS"" and "" 43 PARTICIPATORY ACTIVITIES"".  "
+9.5.0;Travel related to social life; Examples : Went to chat with a neighbour.  
+9.6.0;Travel related to other leisure;" Definition : Travel related to  codes  ""52 ENTERTAINMENT AND CULTURE"",  ""53 
+RESTING  — TIME OUT"",  ""6 SPORTS AND OUTDOOR ACTIVITIES"",  ""7 HOBBIES "" 
+and ""8 MASS MEDIA""; it includes d riving for pleasure  or driving unrelated to any special 
+activity.  
+ 
+ 
+ 
+ 
+  
+ Examples : Going to the cinema/ going sunbathing at the beach/ Going to gym/ Going to 
+play with friends/ going to see a movie at a friend's house / Drove around the village in  
+the car / Going for a drive — with no particular purpose / Sightseeing / Travelling around,  
+car tours, etc. / Went to sea.  "
+9.8.0;Travel related to changing locality;" Definition : Going to the weekend home, going on a vacation trip, etc. for a longer stay 
+(e.g. overnight), and for several different activities. Also applies to one -day trips to e.g.  
+the weekend home, when the trip is done for several purposes and not just for e.g. 
+harvesting.  
+ Note : A one -day trip just for a visit to the theatre or to a sports event, for shopping, etc. 
+should be coded by purpose, even if the travel itself lasts longe r than the principal 
+activity.  
+ Examples : By train to spend a night in a hotel / Inter -rail to Germany / Went to my 
+sister’s home for vacation.  "
+9.0.0;Other or unspecified travel purpose;" Definition : Travel related to  codes  ""01 SLEEPING"",  ""02 EATING"" and  ""03 OTHER 
+PERSONAL CARE"" ; it includes u nspecified travel purpose.  
+ Examples : Went for lunch to my sister's.  
+   AUXILIARY CODES  "
+9.9.5;Filling in the time use diary;" Definition : Activities related to the Time Use survey itself.  
+ Examples : Contacts with the interviewer / Helped the child with the Time use diary.  "
+9.9.8;Unspecified leisure time;" Definition : Leisure time, but no specific activity is mentioned.  
+ Note : The code 998 should be used only when the activity falls into one of the fol lowing 
+groups ""5 SOCIAL LIVE AND ENTERTAINMENT"" , ""7 HOBBIES""  or ""8 MASS MEDIA"", 
+but no more precise code can be assigned.  
+ Examples : Leisure time / Various leisure time activities / Time off / Spare time  "
+9.9.9;Other unspecified time use;" Examples : No activity recorded in the diary / Did a little bit of everything / Spent the 
+evening at home / Was at home / Was on holiday / Came home, went out (if it is not 
+possible to add it to the previous or the following activity) . 
+ 
+ 
+Annex IV / 2. 2 Use of a comp uter, smart device, internet, online tool, etc. 
+for doing the main or secondary activity  "

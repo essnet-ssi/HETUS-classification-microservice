@@ -1,0 +1,98 @@
+OSM_TAG;TUS_PLACE
+amenity:fast_food;09
+name shop;12
+name name:it shop;12
+amenity:cafe;09
+office;13
+shop;12
+swimming;15
+tennis;15
+soccer;15
+leisure:park;21
+amenity:fuel;12
+leisure:garden;21
+amenity:school;06
+amenity:bar ;09
+amenity:biergarten ;09
+amenity:cafe ;09
+amenity:fast_food ;09
+amenity:food_court ;09
+amenity:ice_cream ;09
+amenity:pub ;09
+amenity:restaurant ;09
+amenity:college ;06
+amenity:dancing_school ;15
+amenity:driving_school ;06
+amenity:first_aid_school ;06
+amenity:kindergarten ;06
+amenity:language_school ;06
+amenity:library ;07
+amenity:surf_school ;15
+amenity:toy_library ;07
+amenity:research_institute ;06
+amenity:training ;15
+amenity:music_school ;06
+amenity:school ;06
+amenity:traffic_park ;06
+amenity:university ;06
+amenity:bicycle_parking ;25
+amenity:bicycle_repair_station ;12
+amenity:bicycle_rental ;12
+amenity:bicycle_wash ;12
+amenity:boat_rental ;12
+amenity:bus_station ;25
+amenity:car_rental ;12
+amenity:car_sharing ;25
+amenity:car_wash ;12
+amenity:charging_station ;25
+amenity:ferry_terminal ;25
+amenity:fuel ;12
+amenity:motorcycle_parking ;25
+amenity:taxi ;25
+amenity:atm ;13
+amenity:payment_terminal ;13
+amenity:bank ;13
+amenity:bureau_de_change ;13
+amenity:money_transfer ;13
+amenity:payment_centre ;13
+amenity:clinic ;14
+amenity:dentist ;14
+amenity:doctors ;14
+amenity:hospital ;14
+amenity:nursing_home ;14
+amenity:pharmacy ;12
+amenity:veterinary ;14
+amenity:arts_centre ;18
+amenity:casino ;19
+amenity:cinema ;16
+amenity:community_centre ;16
+amenity:conference_centre ;16
+amenity:events_venue ;16
+amenity:exhibition_centre ;16
+amenity:music_venue ;16
+amenity:nightclub ;16
+amenity:planetarium ;18
+amenity:stripclub ;16
+amenity:studio ;16
+amenity:theatre ;16
+amenity:courthouse ;13
+amenity:fire_station ;13
+amenity:police ;13
+amenity:post_depot ;13
+amenity:post_office ;13
+amenity:prison ;13
+amenity:ranger_station ;13
+amenity:townhall ;13
+amenity:dive_centre ;15
+amenity:funeral_hall ;20
+amenity:grave_yard ;20
+amenity:internet_cafe ;09
+amenity:marketplace ;11
+amenity:monastery ;20
+amenity:mortuary ;20
+amenity:place_of_mourning ;20
+amenity:place_of_worship ;20
+amenity:public_building ;13
+sport:volleyball;15
+sport:basketball;15
+leisure:sports_centre;15
