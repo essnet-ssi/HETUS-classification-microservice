@@ -1,0 +1,13 @@
+{
+  "mapService": "GP",
+  "radiusAccMax": 12000,
+  "poiSearchRadius": 50,
+  "ActivityDurationMin": 300,
+  "UserSpeedMax": 1.96,
+  "gpsSampleSize": 100,
+  "RadiusThresholdPoiStop": 50,
+  "RadiusGPSThreshold": 20,
+  "predMethod": "direct",
+  "DURATION_MODE": "lognorm",
+  "TIMESLOT": "False"
+}
