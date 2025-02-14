@@ -29,13 +29,13 @@ The parameters to be set before run the algorithm are in the _./ADS/parameters.j
 
 ## TUS (Time Usage Survey) Istat tables
 
-- _./TUS_Istat/TUS_PLACE_COD_EN.csv_
-- _./TUS_Istat/HETUS_ACTIVITY_COD_EN.csv_
-- _./TUS_Istat/GP2HETUS_MAP.csv_
-- _./TUS_Istat/GP2TUS_PLACE_MAP.csv_
-- _./TUS_Istat/OSM2TUS_PLACE_MAP.csv_
--_./TUS_Istat/Activity_Places_TUS_count2.csv_
--_./TUS_Istat/data_by_tslot/Activity_Places_TUS_TIME_SLOT.csv_
+- _./TUS_Istat/TUS_PLACE_COD_EN.csv_ : table of TUS place code, description of place and HETUS place associated
+- _./TUS_Istat/HETUS_ACTIVITY_COD_EN.csv_ : table containing the HETUS activities and related descriptions
+- _./TUS_Istat/GP2HETUS_MAP.csv_ : table of HETUS activities associated to GooglePlaces
+- _./TUS_Istat/GP2TUS_PLACE_MAP.csv_ : table of TUS places associated to GooglePlaces
+- _./TUS_Istat/OSM2TUS_PLACE_MAP.csv_ : table of TUS places associated to OpenStreetMap places
+- _./TUS_Istat/Activity_Places_TUS_count2.csv_ : TUS table of activity, place, user profile, duration
+- _./TUS_Istat/data_by_tslot/Activity_Places_TUS_TIME_SLOT.csv_ : TUS table of activity, place, user profile, duration, time slot
 
 ## Testing the algorithm
 
