@@ -15,17 +15,12 @@ The input data used for the activity prediction algorithm are:
 The parameters to be set before run the algorithm are in the _./ADS/parameters.json_ file:
 
 - mapService: the map service to be used, may be "GP" | "OSM", i.e. GooglePlaces or OpenStreetMap
-- radiusAccMax (e.g. 12000)
-- poiSearchRadius (e.g. 50)
-- ActivityDurationMin (e.g. 300 seconds), minimum duration for an activity
+- UseTUSdata: if True use probabilistic approach
+- UseUserProfileInfo: if True use the user profile information (age class, occupation status) to predict activity
+- AccuracyRadiusGPSMin (e.g. 20), minimum radius of the gps accuracy
 - UserSpeedMax (e.g. 1.96), maximum speed of a user while walking
-- gpsSampleSize (e.g. 100), number of gps points used to calcualte the median distance from the poi
-- RadiusThresholdPoiStop (e.g. 50)
-- RadiusGPSThreshold (e.g. 20)
-- predMethod ("direct" | "prob"), method used to predict activity: 'prob' if probabilistic, based on tables of activities, places, user, duration; 'direct' if it is not 
-             based on tables
-- DURATION_MODE  ("lognorm" | "norm" | "uniform"), actitivity duration distribution
-- TIMESLOT" ("False"|"True), True if the time slot is considered in the activity prediction, False otherwise
+- DinamicPOISearchRadiusStep (e.g. 100), 
+- GpsSampleSizeMax (e.g. 100), maximum number of gps points used to calcualte the median distance from the poi
 
 ## TUS (Time Usage Survey) Istat tables
 
