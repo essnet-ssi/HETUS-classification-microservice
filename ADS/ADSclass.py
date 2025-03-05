@@ -38,20 +38,26 @@ class ADS:
     Parameters.Load()
     TablesMapping.Init()
 
-    #predMethod="prob" # spostare in parameters.json
-    predMethod= Parameters.predMethod #"direct" #prob | direct 
+
+    UseTUSdata= Parameters.UseTUSdata # if True use probabilistic aprroach
     DURATION_MODE=Parameters.DURATION_MODE
     TIMESLOT=Parameters.TIMESLOT
 
     poi_nActivitiesPredicted = 10 # number of activities predicted for each poi    
-    
-    def createStaticTable(self,profileVar): 
-        self.df_eta=TablesMapping.FreqTUS
-        df_eta=self.df_eta
+
+    if Parameters.UseUserProfileInfo==True:
+        profileVar="ageclass-condiction-place"
+    else :
+        profileVar="place"
+
+    if UseTUSdata==True:
+        #def createStaticTable(self,profileVar): 
+        df_eta=TablesMapping.FreqTUS
+        #df_eta=self.df_eta
         ###########################################################
         P_Ai=df_eta[["catpri18","COUNT"]].groupby("catpri18").sum()
         P_Ai=P_Ai/P_Ai.sum()
-        self.P_Ai=P_Ai
+        #self.P_Ai=P_Ai
         ############################################################
         
         def statsDuration(x): 
@@ -67,7 +73,7 @@ class ADS:
             mu =str(pd.to_timedelta(mu,unit='s')).split("days ")[-1]
             sd =(str(pd.to_timedelta(var**0.5,unit='s')).split("days ")[-1])            
             return pd.DataFrame({"COUNT":[C],"DURM":[mu],"SD":[sd]})
-
+    
         if profileVar=="ageclass-condiction-place":            
             df_eta=df_eta
         if profileVar=="ageclass-place":            
@@ -78,7 +84,7 @@ class ADS:
         if profileVar=="place": 
             df_eta=df_eta.groupby(["lg","catpri18"])[["COUNT","DURM","SD"]].apply(statsDuration).reset_index()
             df_eta=df_eta.drop("level_2",axis=1)
-
+    
         
         df_Ai_list=[]
         for Ai in df_eta.catpri18.unique():
@@ -87,7 +93,7 @@ class ADS:
                 df_Ai=df_eta[df_eta.catpri18==Ai].copy()
                 df_Ai["P_X"]=(df_Ai.COUNT/df_Ai.COUNT.sum())
                 df_Ai_list.append(df_Ai[["cond","etac","lg","catpri18","P_X"]])
-
+    
             if profileVar=="condiction-place":
                 df_Ai=df_eta[df_eta.catpri18==Ai].copy()
                 df_Ai=df_Ai.groupby(["cond","lg","catpri18"])[["COUNT"]].sum().reset_index()               
@@ -99,7 +105,7 @@ class ADS:
                 df_Ai=df_Ai.groupby(["etac","lg","catpri18"])[["COUNT"]].sum().reset_index()               
                 df_Ai["P_X"]=(df_Ai.COUNT/df_Ai.COUNT.sum())
                 df_Ai_list.append(df_Ai[["etac","lg","catpri18","P_X"]])
-
+    
             if profileVar=="place":
                 df_Ai=df_eta[df_eta.catpri18==Ai].copy()
                 df_Ai=df_Ai.groupby(["lg","catpri18"])[["COUNT"]].sum().reset_index()               
@@ -109,13 +115,19 @@ class ADS:
                 
         df_X_dato_Ai=pd.concat(df_Ai_list,axis=0)
         
-        self.df_X_dato_Ai=df_X_dato_Ai
-        self.profileVar=profileVar
+        #self.df_X_dato_Ai=df_X_dato_Ai
+        #self.profileVar=profileVar
         
         ############################################################
 
+
+
+
+    #self.createStaticTable("ageclass-condiction-place")
+
+    
     def predict(self, json_file):
-        if ADS.predMethod=="prob":
+        if ADS.UseTUSdata==True:
             df_X_dato_Ai=self.df_X_dato_Ai
             P_Ai=self.P_Ai        
             df_eta=self.df_eta
@@ -132,7 +144,7 @@ class ADS:
         # Filter on user velocity GPS POINTS
         print("N points before gps filter:",len(gps))
         gps=(gps[gps.Speed<=Parameters.UserSpeedMax]).copy()
-        gps=(gps[gps.Accuracy<=Parameters.RadiusGPSThreshold]).copy() 
+        gps=(gps[gps.Accuracy<=Parameters.AccuracyRadiusGPSMin]).copy() 
         print("N points after gps filter:",len(gps))
         
         if len(gps)==0:
@@ -164,11 +176,11 @@ class ADS:
         
         #######################################################
         # SELECT ONLY POI WITH A TUS_PLACE FOUND 
-        if ADS.predMethod=="prob":
+        if ADS.UseTUSdata==True:
             pois=pois[pois.TUS_PLACE.str.contains("not found")==False]
             print("*** USEFUL POI FOUND ***",len(pois))    
             #display(pois)
-        if ADS.predMethod=="direct":
+        if ADS.UseTUSdata==False:
             
             pois=pois[pois.DIRECT_HETUS.str.contains("not found")==False]
             print("*** USEFUL POI FOUND ***",len(pois))    
@@ -183,10 +195,10 @@ class ADS:
 
         
         ################## dinamic search by  incremental radius ####################    
-        pois=FilterPOI.FilterPOI(gps,pois,Parameters.RadiusThresholdPoiStop) 
+        pois=FilterPOI.FilterPOI(gps,pois,Parameters.DinaminPOISearchRadiusStep) 
         print("*** DINAMIC SEARCH POIS ***",len(pois))  
         # ASSIGN A SCORE TO POINTS OF INTEREST BY MEDIAN DISTANCE (POI-GPS sample)
-        result=scorePOI_X.scorePOI_X(gps,pois,Parameters.gpsSampleSize)   
+        result=scorePOI_X.scorePOI_X(gps,pois,Parameters.GpsSampleSizeMax)   
         if len(result)==0:
             print("EXIT")
             ActivityScore=pd.DataFrame(columns=["HETUS","ActivityScore","lg","Descr","StopRadius","MapServicePoisNumber","TAG_NOT_FOUND"])
@@ -338,7 +350,7 @@ class ADS:
              
                         
             
-            if ADS.predMethod=="prob":
+            if ADS.UseTUSdata==True:
 
                 if profileVar=="ageclass-condiction-place":
                     X=(cond,eta,lg)
@@ -350,7 +362,7 @@ class ADS:
                     X=(lg)
 
                 dfAct=Activity(t,X) 
-            if ADS.predMethod=="direct":    
+            if ADS.UseTUSdata==False:    
                 DescrActivity=TablesMapping.DescrActivity
                 def getDescrActivity(x):
                     ap=DescrActivity.get(x)
@@ -376,11 +388,10 @@ class ADS:
             print("ACTIVITY SCORE EMPTY (NO PROB ACTIVITY FOR PROFILE)")
             return ActivityScore    
         else:
-            TableAct=pd.concat(ActFinal).sort_values("Pscore",ascending=False)[[0,"Pout","A","Pscore","Poiscore","lg"]]
-            TableAct.columns=["HETUS","ActivityProb","ActivityDescr","ActivityScore","PoiScore","lg"]
-            TableAct[["HETUS","ActivityDescr","PoiScore","ActivityProb","ActivityScore","lg"]].sort_values(by="ActivityScore",ascending=False)
-        
-            ActivityScore=pd.concat(ActFinal).groupby(0).agg({"Pscore":"sum","lg":"first"}).sort_values("Pscore",ascending=False)
+
+            ActivityScore=pd.concat(ActFinal).sort_values("Pscore",ascending=False)
+
+            ActivityScore=ActivityScore.groupby(0).agg({"Pscore":"sum","lg":"first"}).sort_values("Pscore",ascending=False)
             ActivityScore=ActivityScore.reset_index().rename({0:"HETUS"},axis=1)
             ActivityScore["Descr"]=ActivityScore.HETUS.apply(getDescrActivity)
             
